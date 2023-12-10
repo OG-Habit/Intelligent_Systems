@@ -1,3 +1,6 @@
+# My Forked Repo 
+https://github.com/OG-Habit/02_forking-exercise
+
 # Hands-On Exercise Instructions
 
 1. Fork this repository - https://github.com/SenpaiKames/github-hands-on
